@@ -1,0 +1,17 @@
+D:\LT.Net\DoAN1\DoAn\bin\Debug\DoAn.exe.config
+D:\LT.Net\DoAN1\DoAn\bin\Debug\DoAn.exe
+D:\LT.Net\DoAN1\DoAn\bin\Debug\DoAn.pdb
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.exe
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.pdb
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.Logon.resources
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.TableManager.resources
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.QuanLiGiay.resources
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.Login.resources
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.QuanLiNhanVien.resources
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.HoaDon.resources
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.QuanLiKhachHang.resources
+D:\LT.Net\DoAN1\DoAn\obj\Debug\DoAn.csproj.ResolveComReference.cache
