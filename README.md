@@ -14,7 +14,7 @@ Dự án **DoAN1** là một phần mềm hệ thống quản lý bán giày, đ
    - Tìm kiếm giày theo tên, giá hoặc thương hiệu.  
    
 2. **Quản lý khách hàng**  
-   - Lưu thông tin khách hàng (họ tên, số điện thoại, địa chỉ).  
+   - Thêm, sửa, xóa thông tin khách hàng (họ tên, số điện thoại, địa chỉ).  
    - Tìm kiếm khách hàng theo số điện thoại hoặc tên.  
 
 3. **Quản lý đơn hàng**
@@ -23,12 +23,12 @@ Dự án **DoAN1** là một phần mềm hệ thống quản lý bán giày, đ
    - Tính tổng tiền 
    - Lưu hóa đơn và in biên lai.  
 
-5. **Quản lý nhân viên**
+4. **Quản lý nhân viên**
    - Đăng nhập dành cho nhân viên
-   - Lưu thông tin nhân viên mới (họ tên, số điện thoại, địa chỉ).  
+   - Thêm, sửa, xóa thông tin nhân viên (họ tên, giới tính, số điện thoại, địa chỉ, chức vụ).  
    - Tìm kiếm nhân viên theo số điện thoại hoặc tên.   
 
-7. **Báo cáo & Thống kê**   
+5. **Báo cáo & Thống kê**   
    - Tồn kho sản phẩm.  
 
 ## 📂 Cấu trúc dự án
