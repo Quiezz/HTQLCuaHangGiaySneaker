@@ -1,4 +1,4 @@
-# Hệ thống Quản Lý Bán Giày - DoAN1
+# Nhóm 5 - Hệ thống Quản Lý Bán Giày - DH22TIN02 - DoAN1
 
 ## 📌 Giới thiệu
 Dự án **DoAN1** là một phần mềm hệ thống quản lý bán giày, được phát triển bằng C# trên nền tảng .NET với SQL Server làm hệ quản trị cơ sở dữ liệu.
